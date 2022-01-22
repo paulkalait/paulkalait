@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulkalait
-- 👀 I’m interested in ...Coding, Trading, and Learning
-- 🌱 I’m currently learning ... Coding and Web Developing
-- 💞️ I’m looking to collaborate on ... build front-end
+- 👀 I’m interested in ...Coding, Trading, and Learning.
+- 🌱 I’m currently learning ... Fullstack Development and Coding languages
+- 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
 - 📫 How to reach me ... kalaitzidispaul@gmail.com
 
 <!---
