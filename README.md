@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulkalait and I am a full-stack developer
-- 👀 I’m interested in ...Coding, Trading, and Learning.
+- 👀 I’m interested in ...Coding, Learning new technologies, and Trading.
 - 🌱 I’m currently learning ... Fullstack Development and Coding languages
 - 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
 - 📫 How to reach me ... kalaitzidispaul@gmail.com
