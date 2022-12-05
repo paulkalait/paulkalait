@@ -9,7 +9,8 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...Coding, Learning new technologies, and Trading.
 - 🌱 I’m currently learning ... Fullstack Development and Coding languages
 - 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
-- 📫 How to reach me ... kalaitzidispaul@gmail.com
+- 💻 <a href="https://github.com/paulkalait"> Portfolio</a>
+- 📫 kalaitzidispaul@gmail.com
 -  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a>
 
 
