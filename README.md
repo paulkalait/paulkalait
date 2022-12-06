@@ -9,10 +9,6 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...Coding, Learning new technologies, and Trading.
 - 🌱 I’m currently learning ... Fullstack Development and Coding languages
 - 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
-- 💻 <a href="https://github.com/paulkalait"> Portfolio</a>
-- 📫 kalaitzidispaul@gmail.com
--  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a>
-
 
 ## Languages
 <p float="left">
@@ -23,14 +19,21 @@ You can click the Preview link to take a look at your changes.
 </p> 
 
 ## Tools and Databases
-
-
 <p float="left">
 <img src="https://user-images.githubusercontent.com/97272329/205661417-2cfa3db9-f40f-4528-a8be-a35bd2ef9588.png" width="60" height="60">
 <img src="https://user-images.githubusercontent.com/97272329/205661492-af8c32f7-13df-4a70-aaa7-bf1ecc7c0457.png" width="60" height="60">
  <img src="https://user-images.githubusercontent.com/97272329/205662232-73e3241e-ea0d-4968-9a71-08840bd6072d.png" width="60" height="60">
 </p> 
+                                                                                                                                        
+## Contact Me
+- 💻 <a href="https://github.com/paulkalait"> Portfolio</a>
+- 📫 <a mailto="kalaitzidispaul@gmail.com"> kalaitzidispaul@gmail.com </a>
+-  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a>                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                     
 
+                                                                                                                                      
 
 
 
