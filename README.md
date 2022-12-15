@@ -26,8 +26,10 @@ You can click the Preview link to take a look at your changes.
  <img src="https://user-images.githubusercontent.com/97272329/206843217-450a7345-02ed-41a4-aada-456b33c290ba.png" width="50" height="50">
  <img src="https://user-images.githubusercontent.com/97272329/205662232-73e3241e-ea0d-4968-9a71-08840bd6072d.png" width="50" height="50">
  <img src="https://user-images.githubusercontent.com/97272329/206843316-9ca40333-195a-499a-9838-aa8d5cfc2cd5.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/97272329/207952177-0f4bf092-7703-49f2-b7f8-386b2566074c.png" width="50" height="50">
 </p> 
-                                                                                                                                        
+                    
+                                                                                                                 
 ## Contact Me
 - 💻 <a href="https://github.com/paulkalait"> Portfolio</a>
 - 📫 <a mailto="kalaitzidispaul@gmail.com"> kalaitzidispaul@gmail.com </a>
