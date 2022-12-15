@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
                     
                                                                                                                  
 ## Contact Me
-- 💻 <a href="https://github.com/paulkalait"> Portfolio</a>
+- 💻 <a href="https://paulkalait.github.io/react-portfolio-single/"> Portfolio</a>
 - 📫 <a mailto="kalaitzidispaul@gmail.com"> kalaitzidispaul@gmail.com </a>
 -  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a>                                                                                                                                        
                                                                                                                                        
