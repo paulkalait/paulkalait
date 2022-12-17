@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently working as a Software Developer + learning Fullstack Development and Coding languages
 - 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
                                                                                                                                                              
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkalait&show_icons=true&hide=stars#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) 
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkalait&show_icons=true&hide=starse&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Contact Me
 - 💻 <a href="https://paulkalait.github.io/react-portfolio-single/"> Portfolio</a>
