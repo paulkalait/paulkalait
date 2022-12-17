@@ -5,18 +5,16 @@ paulkalait/paulkalait is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## Interests
-- 👀 I’m interested in ...Coding, Learning new technologies, and Trading.
-- 🌱 I’m currently working as a Software Developer + learning Fullstack Development and Coding languages
-- 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
 
 ## Languages
 <p float="left">
 <img src="https://user-images.githubusercontent.com/97272329/205655815-81ce9136-d58d-489b-a0c0-4e823b9bef7f.png" width="60" height="60">
 <img src="https://user-images.githubusercontent.com/97272329/205655469-db21a6bd-fbf0-4369-8018-26fb1675ec1b.png" width="60" height="60">
 <img src="https://user-images.githubusercontent.com/97272329/205655968-e07ae47a-798a-4b7c-a61d-b3335e0240eb.png" width="60" height="60">
- <img src="https://user-images.githubusercontent.com/97272329/205656991-cf91dbf0-2ec7-4a8d-a4da-7d383c61d075.png" width="55" height="60">
+ <img src="https://user-images.githubusercontent.com/97272329/205656991-cf91dbf0-2ec7-4a8d-a4da-7d383c61d075.png" width="60" height="60">
 </p> 
+
+
 
 ## Tools and Databases
 <p float="left">
@@ -27,13 +25,25 @@ You can click the Preview link to take a look at your changes.
  <img src="https://user-images.githubusercontent.com/97272329/205662232-73e3241e-ea0d-4968-9a71-08840bd6072d.png" width="50" height="50">
  <img src="https://user-images.githubusercontent.com/97272329/206843316-9ca40333-195a-499a-9838-aa8d5cfc2cd5.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/97272329/207952177-0f4bf092-7703-49f2-b7f8-386b2566074c.png" width="50" height="50">
+ <img src="https://user-images.githubusercontent.com/97272329/208247327-f2f6adbc-0ef3-44e6-839c-f05316d09a5f.png" width="50" height="50">
 </p> 
-                    
-                                                                                                                 
+ 
+ 
+## Interests
+- 👀 I’m interested in ...Coding, Learning new technologies, and Trading.
+- 🌱 I’m currently working as a Software Developer + learning Fullstack Development and Coding languages
+- 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
+                                                                                                
 ## Contact Me
 - 💻 <a href="https://paulkalait.github.io/react-portfolio-single/"> Portfolio</a>
 - 📫 <a mailto="kalaitzidispaul@gmail.com"> kalaitzidispaul@gmail.com </a>
--  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a>                                                                                                                                        
+-  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a>                                                                               
+
+
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkalait&show_icons=true&hide=stars#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkalait&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+
                                                                                                                                        
 
 
