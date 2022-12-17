@@ -1,5 +1,5 @@
-# Hello
-👋 I’m @paulkalait and I am a full-stack developer
+# Hello I’m @paulkalait👋
+I am a full-stack developer, Finance Graduate, and I currently work as a Software Developer.
 <!---
 paulkalait/paulkalait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -34,12 +34,13 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently working as a Software Developer + learning Fullstack Development and Coding languages
 - 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
                                                                                                                                                              
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkalait&show_icons=true&hide=starse&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Contact Me
 - 💻 <a href="https://paulkalait.github.io/react-portfolio-single/"> Portfolio</a>
 - 📫 <a mailto="kalaitzidispaul@gmail.com"> kalaitzidispaul@gmail.com </a>
--  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a> 
+-  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a>
+
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkalait&show_icons=true&hide=starse&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
