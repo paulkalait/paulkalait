@@ -33,15 +33,14 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...Coding, Learning new technologies, and Trading.
 - 🌱 I’m currently working as a Software Developer + learning Fullstack Development and Coding languages
 - 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
-                                                                                                
+                                                                                                                                                             
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkalait&show_icons=true&hide=stars#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## Contact Me
 - 💻 <a href="https://paulkalait.github.io/react-portfolio-single/"> Portfolio</a>
 - 📫 <a mailto="kalaitzidispaul@gmail.com"> kalaitzidispaul@gmail.com </a>
--  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a>                                                                               
+-  <img src="https://user-images.githubusercontent.com/97272329/205663790-2644c97e-c889-4fa2-9436-44a729586796.png" width="17" height="17"> <a href="https://www.linkedin.com/in/paul-kalaitzidis-393555196/">   Linkedin</a> 
 
-
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkalait&show_icons=true&hide=stars#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkalait&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
                                                                                                                                        
