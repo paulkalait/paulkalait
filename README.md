@@ -1,5 +1,5 @@
 # Hello I’m @paulkalait👋
-I am a full-stack developer, Finance Graduate, and I currently work as a Software Developer.
+I am a Full-Stack Developer, Finance Graduate, and I currently work as a Software Developer.
 <!---
 paulkalait/paulkalait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
