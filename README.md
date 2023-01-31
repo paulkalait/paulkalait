@@ -1,6 +1,6 @@
 # Hello I’m @paulkalait👋
 
-Passionate for finance and a love for crafting innovative software applications, I am a tech-savvy and financially-minded developer constantly seeking to expand my knowledge and skills in all things tech and finance related.
+Passionate for finance, data administration, and a love for crafting innovative software applications, I am a tech-savvy and financially-minded individual constantly seeking to expand my knowledge and skills in all things tech and finance related.
 <!---
 paulkalait/paulkalait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -31,10 +31,9 @@ You can click the Preview link to take a look at your changes.
  
  
 ## Interests
-- 👀 I’m interested in ...Coding, Learning new technologies, and Trading.
-- 🌱 I’m currently working as a Software Developer + learning Fullstack Development and Coding languages
-- 💞️ I’m looking to collaborate on ... building front-end/back-end projects.
-                                                                                                                                                             
+- 👀 I’m interested in ...data management, coding, learning new technologies, and trading.
+- 🌱 I’m currently working as a Data Analyst
+                                                                
 
 ## Contact Me
 - 💻 <a href="https://paulkalait.github.io/react-portfolio-single/"> Portfolio</a>
