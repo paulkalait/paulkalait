@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
  
  
 ## Interests
-- 👀 I’m interested in ...data management, coding, learning new technologies, and trading.
+- 👀 I’m interested in ...web development, data administration, learning new technologies, and trading.
 - 🌱 I’m currently working as a Data Analyst
                                                                 
 
