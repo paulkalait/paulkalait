@@ -1,6 +1,6 @@
 # Hello I’m @paulkalait👋
 
-Passionate for finance, data administration, and a love for crafting innovative software applications, I am a tech-savvy and financially-minded individual constantly seeking to expand my knowledge and skills in all things tech and finance related.
+Passionate for finance, data administration, and a love for crafting innovative web applications, I am a tech-savvy and financially-minded individual constantly seeking to expand my knowledge and skills in all things tech and finance related.
 <!---
 paulkalait/paulkalait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
